@@ -12,7 +12,7 @@
 - PHP based system
 
 ## Database Structure 
-<p align="center"><img src="images/database_laravel.png" width="200" height="200"></a></p>
+<p align="center"><img src="images/database_laravel.png"></a></p>
 
 ## Webapp Screenshots
 
