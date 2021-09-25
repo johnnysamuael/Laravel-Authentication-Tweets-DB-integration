@@ -1,2 +1,37 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="200" height="200"></a></p>
-Laravel based Authentication & Tweeting webapp using Mysql
+
+# Laravel based Authentication & tweeting webapp using Mysql
+
+
+
+
+## Features
+
+- Token based Easy Authentication using laravel
+- Login/Register screen
+- Forget password which sends an email to reset the password
+- PHP based system
+
+## Database Structure 
+<p align="center"><img src="database_laravel.png" width="200" height="200"></a></p>
+
+## Webapp Screenshots
+
+### Login
+<p align="center"><img src="login_laravel.png" width="200" height="200"></a></p>
+
+### Register 
+<p align="center"><img src="register_laravel.png" width="200" height="200"></a></p>
+
+### Tweets
+<p align="center"><img src="tweet_laravel.png" width="200" height="200"></a></p>
+
+
+## Deployment
+
+To deploy this project run
+
+```bash
+  php artisan serve
+```
+
+  
