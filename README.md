@@ -17,13 +17,13 @@
 ## Webapp Screenshots
 
 ### Login
-<p align="center"><img src="login_laravel.png" width="200" height="200"></a></p>
+<p align="center"><img src="images/login_laravel.png" width="200" height="200"></a></p>
 
 ### Register 
-<p align="center"><img src="register_laravel.png" width="200" height="200"></a></p>
+<p align="center"><img src="images/register_laravel.png" width="200" height="200"></a></p>
 
 ### Tweets
-<p align="center"><img src="tweet_laravel.png" width="200" height="200"></a></p>
+<p align="center"><img src="images/tweet_laravel.png" width="200" height="200"></a></p>
 
 
 ## Deployment
